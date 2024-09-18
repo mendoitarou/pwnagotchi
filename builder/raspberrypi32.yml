@@ -117,6 +117,8 @@
           - wl
           - xxd
           - zlib1g-dev
+          - fonts-ipaexfont-gothic
+          - fonts-ipaexfont-mincho
   environment:
     ARCHFLAGS: "-arch armv6l"
     
